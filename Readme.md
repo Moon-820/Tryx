@@ -42,7 +42,7 @@ It provides a smooth, customizable, and fully optimized interface with essential
 ## Support & Links
 
 - **Discord:** [https://discord.gg/vgJ9J5csgJ](https://discord.gg/vgJ9J5csgJ)  
-- **TikTok:** [https://www.tiktok.com/tryx_studios](https://www.tiktok.com/tryx_studios)  
+- **TikTok:** [https://www.tiktok.com/tryx_studios](https://www.tiktok.com/@tryx_studio?_t=ZN-90KnWIbxETW&_r=1)  
 
 ---
 
