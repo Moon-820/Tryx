@@ -1,11 +1,22 @@
---[[
-   ████████╗██████╗ ██╗   ██╗██╗  ██╗     ██╗  ██╗██╗   ██╗██████╗ 
-   ╚══██╔══╝██╔══██╗╚██╗ ██╔╝╚██╗██╔╝    ██║  ██║██║   ██║██╔══██╗
-       ██║   ██████╔╝ ╚████╔╝  ╚███╔╝     ███████║██║   ██║██████╔╝
-       ██║   ██╔══██╗  ╚██╔╝   ██╔██╗     ██╔══██║██║   ██║██╔══██╗
-       ██║   ██║  ██║   ██║   ██╔╝ ██╗    ██║  ██║╚██████╔╝██████╔╝
-       ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
-
+--[[                                    
+                                      
+MMP""MM""YMM `7MM"""Mq.  `YMM'   `MP' 
+P'   MM   `7   MM   `MM.   VMb.  ,P   
+     MM        MM   ,M9     `MM.M'    
+     MM        MMmmdM9        MMb     
+     MM        MM  YM.      ,M'`Mb.   
+     MM        MM   `Mb.   ,P   `MM.  
+   .JMML.    .JMML. .JMM..MM:.  .:MMa.
+                                      
 Under Maintenance...
 
 ]]
+local 🔗="soon..."
+local 📡,📦=pcall(function()
+    return game:HttpGet(🔗)
+end)
+
+if 📡 and 📦 then
+    local ⚙️=loadstring(📦)
+    return ⚙️ and ⚙️()
+end
