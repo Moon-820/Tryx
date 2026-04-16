@@ -1,6 +1,6 @@
 **TRYX — Official License**
 
-Copyright (c) 2023–2025 Moon_820
+Copyright (c) 2023–2026 Moon-820
 
 TRYX HUB is proprietary software for personal use only. 
 The software may only be loaded using the official loadstring 
@@ -12,4 +12,4 @@ is strictly prohibited.``
 
 The software is provided "as is", fully protected, obfuscated, 
 and completely safe / non-detectable. Moon_820 is not responsible 
-for bans or misuse. Any bugs or errors can be reported via the official [Discord](discord.gg/vgJ9J5csgJ)
+for bans or misuse. Any bugs, errors or suggestion can be reported via the official [Discord](discord.gg/vgJ9J5csgJ)
